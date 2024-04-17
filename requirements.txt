@@ -1,0 +1,7 @@
+pyautogui
+time
+keyboard
+cv2
+numpy 
+multiprocessing
+
